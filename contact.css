@@ -2,6 +2,8 @@ body{
   margin: 0px;
 background-color: rgb(139 189 173 / 53%);
 background-repeat: no-repeat;
+background-size: 100%;
+
 }
 #homepage{
   width: 100%;
@@ -9,6 +11,9 @@ background-repeat: no-repeat;
   background-color:aliceblue;
   margin-top: -20px;
 
+}
+.image2 img{
+  width: 100%;
 }
 .image2{
   display: flex;

@@ -7,6 +7,8 @@ body{
     color: white;
     filter: brightness(100%);
     background-repeat: no-repeat;
+    background-size: 100%;
+
   }
   #homepage{
     width: 100%;

@@ -1,6 +1,11 @@
 body{
     margin: 0px;
   background-repeat: no-repeat;
+  background-size: 100%;
+
+  }
+  .image2 img{
+    width: 100%;
   }
   #homepage{
     width: 100%;
