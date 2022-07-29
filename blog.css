@@ -1,6 +1,11 @@
 body{
   margin-right: -47px;
-  overflow-x: hidden;
+  background-repeat: no-repeat;
+}
+#blog{
+    position: relative;
+    left: 111px;
+    width: fit-content;
 }
 #homepage{
   width: 100%;

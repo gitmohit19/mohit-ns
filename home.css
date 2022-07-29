@@ -6,6 +6,7 @@ body{
     height: auto;
     color: white;
     filter: brightness(100%);
+    background-repeat: no-repeat;
   }
   #homepage{
     width: 100%;
