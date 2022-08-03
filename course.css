@@ -1,6 +1,5 @@
 body{
   margin: 0px;
-background-color: #bdbdbd78;
 background-repeat: no-repeat;
 background-size: 100%;
 
@@ -91,15 +90,12 @@ a:active {
   border-radius: 10px;
 }
 .ourcourse1{
-  width: fit-content;
-  margin-left: 10px;
-  position: relative;
-  top: -376px;
-  right: -420px;
-  color: white;
-  border: 2px white solid;
-  padding-top: -31px;
-  border-radius: 17px;
+    position: relative;
+    top: -376px;
+    display: flex;
+    justify-content: center;
+    padding-top: -31px;
+    color: white;
 }
   .content, .heading3{
     position: relative;
@@ -144,7 +140,7 @@ a:active {
     height: 250px;
     display: flex;
     justify-content: center;
-    margin-left: 237px;
+    margin-left: 325px;
     margin-top: -65px;
     filter: brightness(0.5);
 }
@@ -165,7 +161,7 @@ a:active {
     text-decoration: none;
     filter: opacity(8.5);
     margin-top: 100px;
-    margin-left: 405px;
+    margin-left: 500px;
     padding-top: 7px;
 }  
   .lastheading{

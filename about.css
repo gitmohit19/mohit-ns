@@ -89,15 +89,12 @@ body{
     border-radius: 10px;
   }
   .about{
-    width: fit-content;
-    margin-left: 10px;
-    position: relative;
-    top: -350px;
-    right: -420px;
-    color: white;
-    border: 2px white solid;
-    padding-top: -31px;
-    border-radius: 17px;
+       position: relative;
+       top: -350px;
+       color: white;
+       padding-top: -31px;
+       display: flex;
+       justify-content: center;
   }
   #aboutus{
     position: relative;
